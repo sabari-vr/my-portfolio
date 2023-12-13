@@ -1,16 +1,16 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../assets/about.png";
 import Particle from "../components/Particle";
 import About from "../components/Home/About";
 import Type from "../components/Home/Type";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 const Home = () => {
-  const navigate = useNavigate();
-  useEffect(() => {
-    navigate("/my-portfolio", { replace: true });
-  }, [navigate]);
+  // const navigate = useNavigate();
+  // useEffect(() => {
+  //   navigate("/my-portfolio", { replace: true });
+  // }, [navigate]);
   return (
     <section>
       <Container fluid className="home-section" id="home">
