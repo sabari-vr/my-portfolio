@@ -13,41 +13,44 @@ const About = () => {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="yellow"> INTRODUCE </span> MYSELF
+              LET ME <span className="yellow">INTRODUCE</span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, my name is <span className="yellow">Sabari V R </span>
-              and I'm from <span className="yellow"> Kerala, India.</span>
+              Hi, my name is <span className="yellow">Sabari V R</span> and I'm
+              from <span className="yellow">Kerala, India.</span>
               <br />
               <br />
-              I'm graduated with a Master's degree in Computer Application.
+              I hold a Master's degree in Computer Application.
               <br />
               <br />
-              As a<b className="yellow"> Full-Stack </b>developer, I enjoy
+              As a <b className="yellow">Full-Stack</b> developer, I thrive on
               tackling new challenges and continuously expanding my skillset.
               <br />
-              <br />I am proficient in
-              <b className="yellow"> Javascript </b>
-              and its subsidiaries like React JS, Node JS, React Native
-              <b className="yellow"> and Solidity.</b>
+              <br />I am proficient in <b className="yellow">JavaScript</b> and
+              its ecosystems, including React JS, Node JS, React Native, and{" "}
+              <b className="yellow">Solidity</b>.
               <br />
               <br />I have a passion for working with{" "}
-              <b className="yellow">Node.js, MongoDB,</b> (although i'm
-              currently working as frond-end developer) and
+              <b className="yellow">Node JS, MongoDB</b>, and{" "}
               <i>
                 <b className="yellow">
-                  {" "}
-                  modern Javascript libraries and frameworks
+                  modern JavaScript libraries and frameworks
                 </b>
               </i>
-              &nbsp; like
+              , such as{" "}
               <i>
-                <b className="yellow"> React.js</b>
+                <b className="yellow">React JS</b>
+              </i>{" "}
+              and{" "}
+              <i>
+                <b className="yellow">Next JS</b>
               </i>
+              .
               <br />
               <br />
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={LaptopImg} className="img-fluid" alt="avatar" />

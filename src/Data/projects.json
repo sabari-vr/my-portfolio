@@ -1,0 +1,23 @@
+[
+  {
+    "title": "MERN Auth App",
+    "description": "An application focused on authentication using JWT (JSON Web Tokens). The frontend is built with React Query for efficient data fetching and state management, while the backend employs Swagger for comprehensive API documentation.",
+    "imgPath": "MERN_auth",
+    "ghLink": "https://github.com/sabari-vr/MERN-auth",
+    "demoLink": null
+  },
+  {
+    "title": "Portfolio App",
+    "description": "A portfolio application built with React JS and TypeScript. It features various options such as 'Contact Us,' 'Download Resume,' and other interactive elements to showcase your work and make it easy for visitors to connect with you.",
+    "imgPath": "my_portfolio",
+    "ghLink": "https://github.com/sabari-vr/my-portfolio",
+    "demoLink": "https://sabari-vr.github.io/my-portfolio"
+  },
+  {
+    "title": "Country List App",
+    "description": "A small app built with React JS that fetches and displays a list of countries in a card format. Users can filter countries through the navbar.",
+    "imgPath": "country_list",
+    "ghLink": "https://github.com/sabari-vr/country_list",
+    "demoLink": "https://sabari-vr.github.io/country_list"
+  }
+]

@@ -35,14 +35,13 @@ function App() {
   console.error = function () {};
 
   return (
-    <Router>
+    <Router basename="/my-portfolio">
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/my-portfolio" element={<Home />} />
           <Route path="/skillset" element={<Skill />} />
           <Route path="/project" element={<Project />} />
           <Route path="/resume" element={<Resume />} />
