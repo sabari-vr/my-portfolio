@@ -7,6 +7,13 @@
     "demoLink": null
   },
   {
+    "title": "EV Charging Station App",
+    "description": "A mobile application focused on finding nearby or specific EV charging stations, adding them to favorites, and navigating to them using Google Maps.",
+    "imgPath": "EV_charging",
+    "ghLink": "https://github.com/sabari-vr/EV-Charging-Station-App",
+    "demoLink": "https://drive.google.com/file/d/1Odm9mpTvbIDCNJWJtAkInggB1KdA9Mxh/view?usp=sharing"
+  },
+  {
     "title": "Portfolio App",
     "description": "A portfolio application built with React JS and TypeScript. It features various options such as 'Contact Us,' 'Download Resume,' and other interactive elements to showcase your work and make it easy for visitors to connect with you.",
     "imgPath": "my_portfolio",

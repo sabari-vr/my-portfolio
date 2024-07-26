@@ -7,12 +7,14 @@ import projects from "../Data/projects.json";
 import country_list from "../assets/projects/country_list.png";
 import my_portfolio from "../assets/projects/my_portfolio.png";
 import MERN_auth from "../assets/projects/MERN_auth.png";
+import EV_charging from "../assets/projects/ev_charging_station.jpg";
 
 const Projects = () => {
   const imageMap: any = {
     MERN_auth: MERN_auth,
     my_portfolio: my_portfolio,
     country_list: country_list,
+    EV_charging: EV_charging,
   };
 
   return (
