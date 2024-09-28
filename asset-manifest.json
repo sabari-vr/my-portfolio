@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.570f3d08.css",
-    "main.js": "/my-portfolio/static/js/main.cca81a12.js",
+    "main.js": "/my-portfolio/static/js/main.ed15be7e.js",
     "static/media/ev_charging_station.jpg": "/my-portfolio/static/media/ev_charging_station.75af58554fb37fcc9a15.jpg",
     "static/media/my_portfolio.png": "/my-portfolio/static/media/my_portfolio.76dddffb593a282bca2e.png",
     "static/media/MERN_auth.png": "/my-portfolio/static/media/MERN_auth.19c95bcd49e4afcd2a87.png",
     "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/country_list.png": "/my-portfolio/static/media/country_list.07a47e0fa661ecaed9ae.png",
-    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.2170f33f8da2b09eb534.pdf",
+    "static/media/MyResume.pdf": "/my-portfolio/static/media/MyResume.a95bd6a63947448d8bfd.pdf",
     "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
     "main.570f3d08.css.map": "/my-portfolio/static/css/main.570f3d08.css.map",
-    "main.cca81a12.js.map": "/my-portfolio/static/js/main.cca81a12.js.map"
+    "main.ed15be7e.js.map": "/my-portfolio/static/js/main.ed15be7e.js.map"
   },
   "entrypoints": [
     "static/css/main.570f3d08.css",
-    "static/js/main.cca81a12.js"
+    "static/js/main.ed15be7e.js"
   ]
 }
