@@ -14,8 +14,7 @@
     "demoLink": "https://mern-advanced-auth-wowh.onrender.com/login"
   },
   {
-    "title": "EV Charging Station App",
-    "description": "A mobile application focused on finding nearby or specific EV charging stations, adding them to favorites, and navigating to them using Google Maps.",
+    "title": "A mobile application built with React Native that allows users to find nearby or specific EV charging stations, add them to their favorites for quick access, and navigate to them using Google Maps. The app also features user authentication powered by Clerk for a secure and personalized experience",
     "imgPath": "EV_charging",
     "ghLink": "https://github.com/sabari-vr/EV-Charging-Station-App",
     "demoLink": "https://drive.google.com/file/d/1Odm9mpTvbIDCNJWJtAkInggB1KdA9Mxh/view?usp=sharing"
