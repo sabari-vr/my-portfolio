@@ -4,7 +4,7 @@
     "description": "A feature-packed MERN eCommerce platform that integrates Razorpay for seamless payments, along with functionalities like cart, wishlist, order cancellation, coupons, ratings and reviews. It supports products for all genders and kids, with an admin panel featuring dynamic product categories, stock management, analytics, and graphs. Redis is used for caching and context is used for efficient state management.",
     "imgPath": "AD_ECOM",
     "ghLink": "https://github.com/sabari-vr/mern-advanced-ecom",
-    "demoLink": "https://mern-advanced-ecom-wowh.onrender.com/login"
+    "demoLink": "https://mern-advanced-ecom.onrender.com"
   },
   {
     "title": "MERN Advanced Auth App",
