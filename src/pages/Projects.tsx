@@ -9,6 +9,7 @@ import my_portfolio from "../assets/projects/my_portfolio.png";
 import MERN_auth from "../assets/projects/MERN_auth.png";
 import EV_charging from "../assets/projects/ev_charging_station.jpg";
 import AD_ECOM from "../assets/projects/advanced-ecom.png";
+import AD_AUTH from "../assets/projects/advanced_auth.png";
 
 const Projects = () => {
   const imageMap: any = {
@@ -17,6 +18,7 @@ const Projects = () => {
     country_list: country_list,
     EV_charging: EV_charging,
     AD_ECOM: AD_ECOM,
+    AD_AUTH: AD_AUTH,
   };
 
   return (
