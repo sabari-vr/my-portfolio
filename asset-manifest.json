@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.570f3d08.css",
-    "main.js": "/my-portfolio/static/js/main.c1a0c2e9.js",
+    "main.js": "/my-portfolio/static/js/main.f4b58c72.js",
+    "static/media/advanced-ecom.png": "/my-portfolio/static/media/advanced-ecom.9bc1b8d74a9ae199b3a5.png",
     "static/media/ev_charging_station.jpg": "/my-portfolio/static/media/ev_charging_station.75af58554fb37fcc9a15.jpg",
     "static/media/my_portfolio.png": "/my-portfolio/static/media/my_portfolio.76dddffb593a282bca2e.png",
     "static/media/MERN_auth.png": "/my-portfolio/static/media/MERN_auth.19c95bcd49e4afcd2a87.png",
@@ -13,10 +14,10 @@
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
     "main.570f3d08.css.map": "/my-portfolio/static/css/main.570f3d08.css.map",
-    "main.c1a0c2e9.js.map": "/my-portfolio/static/js/main.c1a0c2e9.js.map"
+    "main.f4b58c72.js.map": "/my-portfolio/static/js/main.f4b58c72.js.map"
   },
   "entrypoints": [
     "static/css/main.570f3d08.css",
-    "static/js/main.c1a0c2e9.js"
+    "static/js/main.f4b58c72.js"
   ]
 }
