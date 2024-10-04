@@ -1,8 +1,15 @@
 [
   {
-    "title": "MERN Auth App",
-    "description": "An application focused on authentication using JWT (JSON Web Tokens). The frontend is built with React Query for efficient data fetching and state management, while the backend employs Swagger for comprehensive API documentation.",
-    "imgPath": "MERN_auth",
+    "title": "MERN Advanced eCommerce App",
+    "description": "A feature-packed MERN eCommerce platform that integrates Razorpay for seamless payments, along with functionalities like cart, wishlist, order cancellation, coupons, ratings and reviews. It supports products for all genders and kids, with an admin panel featuring dynamic product categories, stock management, analytics, and graphs. Redis is used for caching and context is used for efficient state management.",
+    "imgPath": "AD_ECOM",
+    "ghLink": "https://mern-advanced-auth-wowh.onrender.com/login",
+    "demoLink": null
+  },
+  {
+    "title": "MERN Advanced Auth App",
+    "description": "A robust MERN application that focuses on advanced user authentication with JWT (JSON Web Tokens). It includes features such as email verification, password reset, and recovery. The frontend leverages React Query for efficient data handling and caching, while the backend is fully documented with Swagger for easy API integration.",
+    "imgPath": "AD_ECOM",
     "ghLink": "https://github.com/sabari-vr/MERN-auth",
     "demoLink": null
   },
@@ -12,6 +19,13 @@
     "imgPath": "EV_charging",
     "ghLink": "https://github.com/sabari-vr/EV-Charging-Station-App",
     "demoLink": "https://drive.google.com/file/d/1Odm9mpTvbIDCNJWJtAkInggB1KdA9Mxh/view?usp=sharing"
+  },
+  {
+    "title": "MERN Auth App",
+    "description": "An application focused on authentication using JWT (JSON Web Tokens). The frontend is built with React Query for efficient data fetching and state management, while the backend employs Swagger for comprehensive API documentation.",
+    "imgPath": "MERN_auth",
+    "ghLink": "https://github.com/sabari-vr/MERN-auth",
+    "demoLink": null
   },
   {
     "title": "Portfolio App",
