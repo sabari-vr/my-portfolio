@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.570f3d08.css",
-    "main.js": "/my-portfolio/static/js/main.e65cac47.js",
+    "main.js": "/my-portfolio/static/js/main.6100e6e5.js",
     "static/media/advanced-ecom.png": "/my-portfolio/static/media/advanced-ecom.9bc1b8d74a9ae199b3a5.png",
     "static/media/ev_charging_station.jpg": "/my-portfolio/static/media/ev_charging_station.75af58554fb37fcc9a15.jpg",
     "static/media/advanced_auth.png": "/my-portfolio/static/media/advanced_auth.b87b616865abf2cead34.png",
@@ -15,10 +15,10 @@
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
     "main.570f3d08.css.map": "/my-portfolio/static/css/main.570f3d08.css.map",
-    "main.e65cac47.js.map": "/my-portfolio/static/js/main.e65cac47.js.map"
+    "main.6100e6e5.js.map": "/my-portfolio/static/js/main.6100e6e5.js.map"
   },
   "entrypoints": [
     "static/css/main.570f3d08.css",
-    "static/js/main.e65cac47.js"
+    "static/js/main.6100e6e5.js"
   ]
 }
