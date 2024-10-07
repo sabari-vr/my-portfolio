@@ -10,6 +10,7 @@ import MERN_auth from "../assets/projects/MERN_auth.png";
 import EV_charging from "../assets/projects/ev_charging_station.jpg";
 import AD_ECOM from "../assets/projects/advanced-ecom.png";
 import AD_AUTH from "../assets/projects/advanced_auth.png";
+import EXPENCE_GQL from "../assets/projects/expence-tracker-gql.png";
 
 const Projects = () => {
   const imageMap: any = {
@@ -19,6 +20,7 @@ const Projects = () => {
     EV_charging: EV_charging,
     AD_ECOM: AD_ECOM,
     AD_AUTH: AD_AUTH,
+    EXPENCE_GQL: EXPENCE_GQL,
   };
 
   return (
