@@ -11,6 +11,7 @@ import EV_charging from "../assets/projects/ev_charging_station.jpg";
 import AD_ECOM from "../assets/projects/advanced-ecom.png";
 import AD_AUTH from "../assets/projects/advanced_auth.png";
 import EXPENCE_GQL from "../assets/projects/expence-tracker-gql.png";
+import CHAT_APP from "../assets/projects/chat_app.png";
 
 const Projects = () => {
   const imageMap: any = {
@@ -21,6 +22,7 @@ const Projects = () => {
     AD_ECOM: AD_ECOM,
     AD_AUTH: AD_AUTH,
     EXPENCE_GQL: EXPENCE_GQL,
+    CHAT_APP: CHAT_APP,
   };
 
   return (

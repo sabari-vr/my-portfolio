@@ -22,29 +22,31 @@ const ProjectCard = ({
         alignContent: "space-between",
       }}
     >
-      <Card.Img
-        variant="top"
-        src={imgPath}
-        alt="card-img"
-        style={{
-          height: "200px",
-          objectFit: "contain",
-          alignSelf: "flex-start",
-          borderRadius: "10%",
-        }}
-      />
+      <div>
+        <Card.Img
+          variant="top"
+          src={imgPath}
+          alt="card-img"
+          style={{
+            height: "200px",
+            objectFit: "contain",
+            alignSelf: "flex-start",
+            borderRadius: "10%",
+          }}
+        />
+      </div>
       <Card.Body
         style={{
           display: "flex",
           flexDirection: "column",
-          justifyContent: "space-between",
-          alignContent: "space-between",
         }}
       >
-        <Card.Title>{title}</Card.Title>
+        <Card.Title className="mb-3">{title}</Card.Title>
         <Card.Text style={{ textAlign: "justify", fontSize: "15px" }}>
           {description}
         </Card.Text>
+      </Card.Body>
+      <div className="card-body d-flex justify-content-end flex-column">
         <Button
           variant="primary"
           href={ghLink}
@@ -62,11 +64,6 @@ const ProjectCard = ({
           <BsGithub /> &nbsp;
           {isBlog ? "Blog" : "GitHub"}
         </Button>
-        {"\n"}
-        {"\n"}
-
-        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
-
         {!isBlog && demoLink && (
           <Button
             variant="primary"
@@ -87,7 +84,7 @@ const ProjectCard = ({
             {"Demo"}
           </Button>
         )}
-      </Card.Body>
+      </div>
     </Card>
   );
 };

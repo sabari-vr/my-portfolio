@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import { AiOutlineDownload } from "react-icons/ai";
 
 import Particle from "../components/Particle";
-import pdf from "../assets/MyResume.pdf";
+import pdf from "../assets/NEWRESUME.pdf";
 
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -23,8 +23,14 @@ const Resume = () => {
       <Container fluid className="resume-section">
         <Particle />
         <Row className="resume">
-          <Document file={pdf} className="d-flex justify-content-center">
+          <Document className="d-flex justify-content-center" file={pdf}>
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+          </Document>
+          <Document className="d-flex justify-content-center" file={pdf}>
+            <Page pageNumber={2} scale={width > 786 ? 1.7 : 0.6} />
+          </Document>
+          <Document className="d-flex justify-content-center" file={pdf}>
+            <Page pageNumber={3} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
 

@@ -1,7 +1,21 @@
 [
   {
     "title": "MERN Advanced eCommerce App",
-    "description": "A feature-packed MERN eCommerce platform that integrates Razorpay for seamless payments, along with functionalities like cart, wishlist, order cancellation, coupons, ratings and reviews. It supports products for all genders and kids, with an admin panel featuring dynamic product categories, stock management, analytics, and graphs. Redis is used for caching and context is used for efficient state management.",
+    "description": "This eCommerce application, built with the MERN stack (MongoDB, Express, React, Node.js), incorporates Redis for caching, signed URL uploads for images, and Razorpay webhooks for real-time payment processing. It ensures secure authentication with JWT tokens for access and refresh, utilizes React Query for efficient API fetching and client-side caching, and manages global state with the Context API. Key features include cart and wishlist management, real payments with order placement and cancellation, stock locking and reduction, and a comprehensive admin panel for managing products, orders, coupons, and tracking analytics through graphs, providing a seamless and robust eCommerce experience.",
+    "imgPath": "AD_ECOM",
+    "ghLink": "https://github.com/sabari-vr/mern-advanced-ecom",
+    "demoLink": "https://mern-advanced-ecom.onrender.com"
+  },
+  {
+    "title": "PERN chat App",
+    "description": "This is a real-time chat application built using the PERN stack (PostgreSQL, Express, React, Node.js) with Socket.io for instant messaging. It features secure user authentication using JWT tokens for access and refresh, ensuring seamless and protected communication. The app provides a smooth, interactive chat experience with a focus on performance and security.",
+    "imgPath": "CHAT_APP",
+    "ghLink": "https://github.com/sabari-vr/pern-chat-app",
+    "demoLink": "https://pern-chat-app-880d.onrender.com"
+  },
+  {
+    "title": "PERN Advanced eCommerce App",
+    "description": "This eCommerce application, built with the PERN stack (PostgreSQL, Express, React, Node.js), incorporates Redis for caching, signed URL uploads for images, and Razorpay webhooks for real-time payment processing. It ensures secure authentication with JWT tokens for access and refresh, utilizes React Query for efficient API fetching and client-side caching, and manages global state with the Context API. Key features include cart and wishlist management, real payments with order placement and cancellation, stock locking and reduction, and a comprehensive admin panel for managing products, orders, coupons, and tracking analytics through graphs, providing a seamless and robust eCommerce experience.",
     "imgPath": "AD_ECOM",
     "ghLink": "https://github.com/sabari-vr/mern-advanced-ecom",
     "demoLink": "https://mern-advanced-ecom.onrender.com"
@@ -21,7 +35,8 @@
     "demoLink": "https://mern-advanced-auth-wowh.onrender.com/login"
   },
   {
-    "title": "A mobile application built with React Native that allows users to find nearby or specific EV charging stations, add them to their favorites for quick access, and navigate to them using Google Maps. The app also features user authentication powered by Clerk for a secure and personalized experience",
+    "title": "EV Charging Station App",
+    "description": "A mobile application built with React Native that allows users to find nearby or specific EV charging stations, add them to their favorites for quick access, and navigate to them using Google Maps. The app also features user authentication powered by Clerk for a secure and personalized experience",
     "imgPath": "EV_charging",
     "ghLink": "https://github.com/sabari-vr/EV-Charging-Station-App",
     "demoLink": "https://drive.google.com/file/d/1Odm9mpTvbIDCNJWJtAkInggB1KdA9Mxh/view?usp=sharing"
