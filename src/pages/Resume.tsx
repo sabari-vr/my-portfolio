@@ -23,10 +23,10 @@ const Resume = () => {
       <Container fluid className="resume-section">
         <Particle />
         <Row className="resume">
-          <Document className="d-flex justify-content-center" file={pdf}>
+          <Document className="d-flex justify-content-center mb-2" file={pdf}>
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
-          <Document className="d-flex justify-content-center" file={pdf}>
+          <Document className="d-flex justify-content-center mb-2" file={pdf}>
             <Page pageNumber={2} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
           <Document className="d-flex justify-content-center" file={pdf}>
