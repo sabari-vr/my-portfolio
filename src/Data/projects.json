@@ -7,18 +7,25 @@
     "demoLink": "https://mern-advanced-ecom.onrender.com"
   },
   {
+    "title": "Next JS Whatsapp Clone",
+    "description": "This is a modern messaging application built with Next.js 14, TypeScript, and TailwindCSS, leveraging Convex for serverless functionality and Clerk for seamless authentication. The app allows users to create private and group chats, view online/offline statuses, and manage group memberships with admin controls. It supports video calls and the ability to send images and videos within chats. Advanced features include OpenAI integration for ChatGPT and DALL-E-3, robust error handling, and global state management using Zustand. The application also offers a light/dark mode toggle and is fully deployed, showcasing best practices in modern web development.",
+    "imgPath": "WHATSAPP",
+    "ghLink": "https://github.com/sabari-vr/pern-advanced-ecom",
+    "demoLink": "https://pern-advanced-ecom.onrender.com"
+  },
+  {
+    "title": "PERN Advanced eCommerce App",
+    "description": "This eCommerce application, built with the PERN stack (PostgreSQL, Express, React, Node.js), incorporates Redis for caching, signed URL uploads for images, and Razorpay webhooks for real-time payment processing. It ensures secure authentication with JWT tokens for access and refresh, utilizes React Query for efficient API fetching and client-side caching, and manages global state with the Context API. Key features include cart and wishlist management, real payments with order placement and cancellation, stock locking and reduction, and a comprehensive admin panel for managing products, orders, coupons, and tracking analytics through graphs, providing a seamless and robust eCommerce experience.",
+    "imgPath": "PERN_ECOM_APP",
+    "ghLink": "https://github.com/sabari-vr/pern-advanced-ecom",
+    "demoLink": "https://pern-advanced-ecom.onrender.com"
+  },
+  {
     "title": "PERN chat App",
     "description": "This is a real-time chat application built using the PERN stack (PostgreSQL, Express, React, Node.js) with Socket.io for instant messaging. It features secure user authentication using JWT tokens for access and refresh, ensuring seamless and protected communication. The app provides a smooth, interactive chat experience with a focus on performance and security.",
     "imgPath": "CHAT_APP",
     "ghLink": "https://github.com/sabari-vr/pern-chat-app",
     "demoLink": "https://pern-chat-app-880d.onrender.com"
-  },
-  {
-    "title": "PERN Advanced eCommerce App",
-    "description": "This eCommerce application, built with the PERN stack (PostgreSQL, Express, React, Node.js), incorporates Redis for caching, signed URL uploads for images, and Razorpay webhooks for real-time payment processing. It ensures secure authentication with JWT tokens for access and refresh, utilizes React Query for efficient API fetching and client-side caching, and manages global state with the Context API. Key features include cart and wishlist management, real payments with order placement and cancellation, stock locking and reduction, and a comprehensive admin panel for managing products, orders, coupons, and tracking analytics through graphs, providing a seamless and robust eCommerce experience.",
-    "imgPath": "AD_ECOM",
-    "ghLink": "https://github.com/sabari-vr/mern-advanced-ecom",
-    "demoLink": "https://mern-advanced-ecom.onrender.com"
   },
   {
     "title": "Expense GQL App",

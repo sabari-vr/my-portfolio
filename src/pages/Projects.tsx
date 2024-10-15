@@ -12,6 +12,8 @@ import AD_ECOM from "../assets/projects/advanced-ecom.png";
 import AD_AUTH from "../assets/projects/advanced_auth.png";
 import EXPENCE_GQL from "../assets/projects/expence-tracker-gql.png";
 import CHAT_APP from "../assets/projects/chat_app.png";
+import PERN_ECOM_APP from "../assets/projects/pern-ecom.png";
+import WHATSAPP from "../assets/projects/whats_app.png";
 
 const Projects = () => {
   const imageMap: any = {
@@ -23,6 +25,8 @@ const Projects = () => {
     AD_AUTH: AD_AUTH,
     EXPENCE_GQL: EXPENCE_GQL,
     CHAT_APP: CHAT_APP,
+    PERN_ECOM_APP: PERN_ECOM_APP,
+    WHATSAPP: WHATSAPP,
   };
 
   return (
