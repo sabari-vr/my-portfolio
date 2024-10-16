@@ -4,7 +4,7 @@
     "description": "This eCommerce application, built with the MERN stack (MongoDB, Express, React, Node.js), incorporates Redis for caching, signed URL uploads for images, and Razorpay webhooks for real-time payment processing. It ensures secure authentication with JWT tokens for access and refresh, utilizes React Query for efficient API fetching and client-side caching, and manages global state with the Context API. Key features include cart and wishlist management, real payments with order placement and cancellation, stock locking and reduction, and a comprehensive admin panel for managing products, orders, coupons, and tracking analytics through graphs, providing a seamless and robust eCommerce experience.",
     "imgPath": "AD_ECOM",
     "ghLink": "https://github.com/sabari-vr/mern-advanced-ecom",
-    "demoLink": "https://mern-advanced-ecom.onrender.com"
+    "demoLink": "https://mern-advanced-ecom-bsaf.onrender.com"
   },
   {
     "title": "Next JS Whatsapp Clone",
@@ -18,7 +18,7 @@
     "description": "This eCommerce application, built with the PERN stack (PostgreSQL, Express, React, Node.js), incorporates Redis for caching, signed URL uploads for images, and Razorpay webhooks for real-time payment processing. It ensures secure authentication with JWT tokens for access and refresh, utilizes React Query for efficient API fetching and client-side caching, and manages global state with the Context API. Key features include cart and wishlist management, real payments with order placement and cancellation, stock locking and reduction, and a comprehensive admin panel for managing products, orders, coupons, and tracking analytics through graphs, providing a seamless and robust eCommerce experience.",
     "imgPath": "PERN_ECOM_APP",
     "ghLink": "https://github.com/sabari-vr/pern-advanced-ecom",
-    "demoLink": "https://pern-advanced-ecom.onrender.com"
+    "demoLink": "https://pern-advanced-ecom-x5p4.onrender.com"
   },
   {
     "title": "PERN chat App",
