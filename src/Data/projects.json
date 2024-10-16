@@ -25,14 +25,14 @@
     "description": "This is a real-time chat application built using the PERN stack (PostgreSQL, Express, React, Node.js) with Socket.io for instant messaging. It features secure user authentication using JWT tokens for access and refresh, ensuring seamless and protected communication. The app provides a smooth, interactive chat experience with a focus on performance and security.",
     "imgPath": "CHAT_APP",
     "ghLink": "https://github.com/sabari-vr/pern-chat-app",
-    "demoLink": "https://pern-chat-app-880d.onrender.com"
+    "demoLink": "https://pern-chat-app-92f2.onrender.com"
   },
   {
     "title": "Expense GQL App",
     "description": "A modern application built with the MERN stack and GraphQL. This app is designed to help users efficiently manage and track their expenses, providing an intuitive and responsive user interface for logging, categorizing, and analyzing spending. The backend is powered by GraphQL, allowing for flexible querying and streamlined communication between the client and server. With this app, users can add expenses and gain insights into their spending habits, making financial management simpler and more effective.",
     "imgPath": "EXPENCE_GQL",
     "ghLink": "https://github.com/sabari-vr/mern-expence-tracker-gql",
-    "demoLink": "https://mern-expence-tracker-gql.onrender.com/"
+    "demoLink": "https://mern-expence-tracker-gql-lmdz.onrender.com"
   },
   {
     "title": "MERN Advanced Auth App",
