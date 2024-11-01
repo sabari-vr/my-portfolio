@@ -47,23 +47,25 @@ const ProjectCard = ({
         </Card.Text>
       </Card.Body>
       <div className="card-body d-flex justify-content-end flex-column">
-        <Button
-          variant="primary"
-          href={ghLink}
-          target="_blank"
-          style={{
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-            alignContent: "flex-end",
-            textAlign: "center",
-            position: "relative",
-            bottom: "0px",
-          }}
-        >
-          <BsGithub /> &nbsp;
-          {isBlog ? "Blog" : "GitHub"}
-        </Button>
+        {ghLink && (
+          <Button
+            variant="primary"
+            href={ghLink}
+            target="_blank"
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              alignContent: "flex-end",
+              textAlign: "center",
+              position: "relative",
+              bottom: "0px",
+            }}
+          >
+            <BsGithub /> &nbsp;
+            {isBlog ? "Blog" : "GitHub"}
+          </Button>
+        )}
         {!isBlog && demoLink && (
           <Button
             variant="primary"
