@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.570f3d08.css",
+    "main.css": "/my-portfolio/static/css/main.09375f1c.css",
     "main.js": "/my-portfolio/static/js/main.9c98da33.js",
     "static/media/advanced-ecom.png": "/my-portfolio/static/media/advanced-ecom.9bc1b8d74a9ae199b3a5.png",
     "static/media/pern-ecom.png": "/my-portfolio/static/media/pern-ecom.6582faf4ec29eb8025b2.png",
@@ -18,11 +18,11 @@
     "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
-    "main.570f3d08.css.map": "/my-portfolio/static/css/main.570f3d08.css.map",
+    "main.09375f1c.css.map": "/my-portfolio/static/css/main.09375f1c.css.map",
     "main.9c98da33.js.map": "/my-portfolio/static/js/main.9c98da33.js.map"
   },
   "entrypoints": [
-    "static/css/main.570f3d08.css",
+    "static/css/main.09375f1c.css",
     "static/js/main.9c98da33.js"
   ]
 }
