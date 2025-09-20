@@ -77,7 +77,7 @@ jobs:
         with:
           projectBaseDir: .
           args: >
-            -Dsonar.projectKey=my-portfolio
+            -Dsonar.projectKey=sabari-vr_my-portfolio
             -Dsonar.organization=sabari-vr
             -Dsonar.host.url=${{ secrets.SONAR_HOST_URL }}
             -Dsonar.login=${{ secrets.SONAR_TOKEN }}
